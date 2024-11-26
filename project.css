@@ -352,7 +352,8 @@ footer{
 	transition: 0.3s;
 }
  #about{
-	display: table;
+	display: flex;
+	 flex-direction: column;
 	width: 100%;
  } 
   .About{
