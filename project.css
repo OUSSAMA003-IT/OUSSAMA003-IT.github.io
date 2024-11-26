@@ -310,3 +310,20 @@ footer{
 #fb{
 	padding-right: 20px;
 }
+
+@media screen and (max-width:480px)
+{
+  #home{
+	  width:100%;
+  }
+  #about {
+	  width: 100%;
+  }
+
+  #events{
+	  width: 100%;
+  }
+  .container {
+	
+	background:  url('ice2.png');
+}	
